@@ -1,1 +1,4 @@
-Sıfırdan çok güzel bir proje oldu,300Mb fazla olduğu için yükleyemiyorum 
+# Asp.Net_Core-Tours_Travel
+- 300 mb fazla olduğundan yükleyemiyorum.
+
+
